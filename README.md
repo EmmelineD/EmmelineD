@@ -1,10 +1,1 @@
-- 👋 Hi, I’m Emmeline DOHY
-- 👀 I’m interested in web developement
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-EmmelineD/EmmelineD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Bonjour, je suis à la recherche d'une alternance pour un diplôme de Licence Backend afin de continuer ma reconversion dans le domaine du web. Déterminée, curieuse d'apprendre et aimant travailler en équipe ; mon objectif est de contribuer à des projets stimulants tout en continuant à développer mes compétences techniques et à m'intégrer pleinement dans la communauté du développement web.
