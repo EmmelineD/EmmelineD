@@ -1,7 +1,10 @@
 # Hello, Je suis Emmeline 👋
 
-Passionnée par le monde de la programmation et du développement informatique, j’ai récemment obtenu mon BTS Développement Web et je suis à la recherche d’opportunités pour continuer ma formation en alternance en Licence.
-Je compte mettre à profit l’ensemble de mes compétences, acquises via mes expériences professionnelles précédentes, dans la réussite de mon travail et le développement de mes compétences techniques.
+Passionnée par le monde de la programmation et du développement informatique. 
+Mon BTS Développement Web en poche, je suis à la recherche d'un contrat de professionnalisation en alternance pour un Bachelor Développement Web avec MyDigitalSchool Angers.
+ 
+8 ans d'expérience dans des secteurs variés, des compétences techniques directement transférables.
+Rigoureuse, technicienne, travailleuse et adaptable. Je suis à l'écoute des opportunités !
 
 # Hard Skills 👩‍🔧
 <div align='center'>
