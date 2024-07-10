@@ -20,9 +20,7 @@ Rigoureuse, technicienne, travailleuse et adaptable. Je suis à l'écoute des op
 
 # Projets 🐱‍👓
 
-- Lil-cake ⏸
-- No time to eat 🔝 (étude sur papier : besoin, stack,....)
-- IdleOn timer 🔜 ( travail collectif : faire un point)
+
 
 
 # Contact ✉
