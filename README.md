@@ -1,7 +1,7 @@
 # Hello, Je suis Emmeline 👋
 
 Passionnée par le monde de la programmation et du développement informatique. 
-Mon BTS Développement Web en poche, je suis à la recherche d'un contrat de professionnalisation en alternance pour un Bachelor Développement Web avec MyDigitalSchool Angers.
+Mon BTS Développement Web en poche, je suis à la recherche d'une alternance en Pays de la Loire pour un Bachelor Développement Web à Angers.
  
 8 ans d'expérience dans des secteurs variés, des compétences techniques directement transférables.
 Rigoureuse, technicienne, travailleuse et adaptable. Je suis à l'écoute des opportunités !
