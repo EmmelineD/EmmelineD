@@ -9,7 +9,7 @@ Rigoureuse, technicienne, travailleuse et adaptable. Je suis à l'écoute des op
 # Hard Skills 👩‍🔧
 <div align='center'>
   <div float='left'>
-    <a href="https://github.com/EmmelineD/github-readme-stats"><img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
+    <a href="https://github.com/EmmelineD/github-readme-stats"><img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmelineD&layout=compact"/></a>
   </div>
   <div float='left'>
     <img height=70 src="https://github.com/EmmelineD/EmmelineD/assets/98889798/de6e9002-c6c9-43a5-9438-1f951d437b85">
